@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pokimons/static/css/main.5e6913aa.chunk.css",
-    "main.js": "/pokimons/static/js/main.2c45785f.chunk.js",
-    "main.js.map": "/pokimons/static/js/main.2c45785f.chunk.js.map",
+    "main.css": "/pokimons/static/css/main.fe5d6f5b.chunk.css",
+    "main.js": "/pokimons/static/js/main.fc611b14.chunk.js",
+    "main.js.map": "/pokimons/static/js/main.fc611b14.chunk.js.map",
     "runtime-main.js": "/pokimons/static/js/runtime-main.d23f696a.js",
     "runtime-main.js.map": "/pokimons/static/js/runtime-main.d23f696a.js.map",
     "static/js/2.37f1f95e.chunk.js": "/pokimons/static/js/2.37f1f95e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.d1c72d16.chunk.js": "/pokimons/static/js/3.d1c72d16.chunk.js",
     "static/js/3.d1c72d16.chunk.js.map": "/pokimons/static/js/3.d1c72d16.chunk.js.map",
     "index.html": "/pokimons/index.html",
-    "static/css/main.5e6913aa.chunk.css.map": "/pokimons/static/css/main.5e6913aa.chunk.css.map",
+    "static/css/main.fe5d6f5b.chunk.css.map": "/pokimons/static/css/main.fe5d6f5b.chunk.css.map",
     "static/js/2.37f1f95e.chunk.js.LICENSE.txt": "/pokimons/static/js/2.37f1f95e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d23f696a.js",
     "static/js/2.37f1f95e.chunk.js",
-    "static/css/main.5e6913aa.chunk.css",
-    "static/js/main.2c45785f.chunk.js"
+    "static/css/main.fe5d6f5b.chunk.css",
+    "static/js/main.fc611b14.chunk.js"
   ]
 }
